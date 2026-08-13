@@ -18,10 +18,8 @@ Meu objetivo é continuar aprendendo, desenvolver novos projetos e conquistar mi
 ## 🛠️ Tecnologias e conhecimentos
 
 [![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat&logo=servicenow&logoColor=white)](https://www.servicenow.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/arthur-peres-souza)
 
-`App Engine Studio` `Flow` `Banco de dados` `Estruturação de dados` `Relacionamentos entre tabelas`
-
+App Engine Studio • Flow • Git • Banco de Dados • Estruturação de Dados • Relacionamentos entre Tabelas
 ---
 
 ## 🚀 Projeto em destaque
