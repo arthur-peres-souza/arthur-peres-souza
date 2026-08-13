@@ -19,7 +19,7 @@ Meu objetivo é continuar aprendendo, desenvolver novos projetos e conquistar mi
 
 [![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat&logo=servicenow&logoColor=white)](https://www.servicenow.com/)
 
-App Engine Studio • Flow • Git • Banco de Dados • Estruturação de Dados • Relacionamentos entre Tabelas
+`App Engine Studio` `Flow` `Git` `Banco de dados` `Estruturação de dados` `Relacionamentos entre tabelas`
 ---
 
 ## 🚀 Projeto em destaque
