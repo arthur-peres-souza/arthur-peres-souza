@@ -20,7 +20,6 @@ Meu objetivo é continuar aprendendo, desenvolver novos projetos e conquistar mi
 [![ServiceNow](https://img.shields.io/badge/ServiceNow-81B5A1?style=flat&logo=servicenow&logoColor=white)](https://www.servicenow.com/)
 
 `App Engine Studio` `Flow` `Git` `Banco de dados` `Estruturação de dados` `Relacionamentos entre tabelas`
----
 
 ## 🚀 Projeto em destaque
 
@@ -44,3 +43,4 @@ No projeto trabalhei com:
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arthur%20Peres-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-peres-souza/)
+[![Email](https://img.shields.io/badge/Email-arthurperes.fs%40gmail.com-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:arthurperes.fs@gmail.com)
